@@ -1,0 +1,4 @@
+Flask
+opencv-python
+numpy
+inference-sdk
